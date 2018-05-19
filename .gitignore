@@ -1,4 +1,8 @@
 .idea
 /configs/
+/input/
+/out/
+/toGefest/
+/source/
 *.DS_Store
 *~
